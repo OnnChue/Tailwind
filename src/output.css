@@ -554,57 +554,25 @@ video {
   display: none;
 }
 
-.w-4 {
-  width: 1rem;
-}
-
-.w-\[\] {
-  width: ;
-}
-
-.w-\[4\] {
-  width: 4;
-}
-
-.w-\[40\] {
-  width: 40;
-}
-
-.w-\[400\] {
-  width: 400;
-}
-
-.w-\[400px\] {
-  width: 400px;
-}
-
-.w-\[400p\] {
-  width: 400p;
-}
-
-.w-\[1\] {
-  width: 1;
-}
-
-.w-\[10\] {
-  width: 10;
-}
-
-.w-\[100\] {
-  width: 100;
-}
-
-.w-\[100p\] {
-  width: 100p;
-}
-
 .w-\[100px\] {
   width: 100px;
+}
+
+.w-\[00px\] {
+  width: 00px;
+}
+
+.w-\[200px\] {
+  width: 200px;
 }
 
 .bg-gray-500 {
   --tw-bg-opacity: 1;
   background-color: rgb(107 114 128 / var(--tw-bg-opacity, 1));
+}
+
+.p-5 {
+  padding: 1.25rem;
 }
 
 .text-3xl {
